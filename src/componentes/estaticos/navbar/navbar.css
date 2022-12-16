@@ -1,0 +1,34 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.central {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginSair {
+    display: flex;
+    justify-items: end;
+
+}
+
+.gradiente {
+    background-color: #000000;
+    background-image: linear-gradient(180deg, #000000 0%, #434242 100%);
+    
+}
+
+.sizeIcon {
+    width: 10rem;
+}
+
+.ml {
+    margin-left: 70rem;
+}
